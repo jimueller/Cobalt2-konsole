@@ -1,5 +1,5 @@
 # Cobalt2-konsole
-[Cobalt2](https://github.com/wesbos/Cobalt2-iterm) theme for KDE Konsole.
+KDE Console port of [wesbos/Cobalt2-iterm](https://github.com/wesbos/Cobalt2-iterm) theme.
 
 [Available on KDE Store](https://store.kde.org/p/1415230)
 
