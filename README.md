@@ -17,3 +17,6 @@ It's simple, copy `cobalt2.colorscheme` to `~/.local/share/konsole`
 3. Search for "cobalt2" and install
 
 ![add-from-konsole](https://github.com/jimueller/Cobalt2-konsole/blob/master/konsole-add.png)
+
+# Full experience
+For the best experience, follow the [instructions](https://github.com/wesbos/Cobalt2-iterm#step-by-step-installation) to configure the **cobalt2-zsh** theme.
