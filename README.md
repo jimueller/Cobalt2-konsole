@@ -16,4 +16,4 @@ It's simple, copy `cobalt2.colorscheme` to `~/.local/share/konsole`
 2. Appearance > Get New
 3. Search for "cobalt2" and install
 
-![add-from-konsole](https://github.com/jimueller/Cobalt2-konsole/blob/master/konsole-add.png
+![add-from-konsole](https://github.com/jimueller/Cobalt2-konsole/blob/master/konsole-add.png)
